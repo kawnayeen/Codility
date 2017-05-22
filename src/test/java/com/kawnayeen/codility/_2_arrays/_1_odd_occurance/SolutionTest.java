@@ -1,5 +1,6 @@
-package com.kawnayeen.codility._2_arrays;
+package com.kawnayeen.codility._2_arrays._1_odd_occurance;
 
+import com.kawnayeen.codility._2_arrays._1_odd_occurance.Solution;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.kawnayeen.codility._2_arrays;
+package com.kawnayeen.codility._2_arrays._1_odd_occurance;
 
 import java.util.Collections;
 import java.util.HashSet;
