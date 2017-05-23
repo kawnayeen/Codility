@@ -19,13 +19,21 @@ public class MissingInteger {
                 }
             }
         }
+        if (maxNumber < 1)
+            return 1;
+
         List<Integer> integers = new ArrayList<>(positiveNumbers);
         Collections.sort(integers);
         int index = 1;
+        boolean missingFound = false;
         for (; index < maxNumber; index++) {
-            if (integers.get(index - 1) != index)
+            if (integers.get(index - 1) != index) {
+                missingFound = true;
                 break;
+            }
         }
+        if (!missingFound)
+            index = maxNumber + 1;
         return index;
     }
 }

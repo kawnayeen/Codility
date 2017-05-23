@@ -15,5 +15,6 @@ public class MissingIntegerTest {
         Assert.assertEquals(1, missingInteger.solution(new int[]{-1, -2, -4}));
         Assert.assertEquals(1, missingInteger.solution(new int[]{4, 3, 2}));
         Assert.assertEquals(5, missingInteger.solution(new int[]{1, 3, 6, 4, 1, 2}));
+        Assert.assertEquals(2, missingInteger.solution(new int[]{1}));
     }
 }
