@@ -1,4 +1,4 @@
-package com.kawnayeen.codility._3_time_complexity._4_counting_elements._1_prem_check;
+package com.kawnayeen.codility._4_counting_elements._1_prem_check;
 
 /**
  * kawnayeen

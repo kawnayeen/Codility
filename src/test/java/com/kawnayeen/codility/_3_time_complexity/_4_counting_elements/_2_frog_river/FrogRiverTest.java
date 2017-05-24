@@ -1,5 +1,6 @@
 package com.kawnayeen.codility._3_time_complexity._4_counting_elements._2_frog_river;
 
+import com.kawnayeen.codility._4_counting_elements._2_frog_river.FrogRiver;
 import org.junit.Assert;
 import org.junit.Test;
 

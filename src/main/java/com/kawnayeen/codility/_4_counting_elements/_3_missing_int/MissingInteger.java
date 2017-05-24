@@ -1,4 +1,4 @@
-package com.kawnayeen.codility._3_time_complexity._4_counting_elements._3_missing_int;
+package com.kawnayeen.codility._4_counting_elements._3_missing_int;
 
 import java.util.*;
 

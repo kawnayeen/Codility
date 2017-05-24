@@ -1,4 +1,4 @@
-package com.kawnayeen.codility._3_time_complexity._4_counting_elements._2_frog_river;
+package com.kawnayeen.codility._4_counting_elements._2_frog_river;
 
 /**
  * Created by kawnayeen on 5/23/17.

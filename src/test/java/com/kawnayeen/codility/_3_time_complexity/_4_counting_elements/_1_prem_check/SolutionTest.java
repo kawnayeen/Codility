@@ -1,5 +1,6 @@
 package com.kawnayeen.codility._3_time_complexity._4_counting_elements._1_prem_check;
 
+import com.kawnayeen.codility._4_counting_elements._1_prem_check.Solution;
 import org.junit.Assert;
 import org.junit.Test;
 
