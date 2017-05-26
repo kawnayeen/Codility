@@ -1,4 +1,4 @@
-package com.kawnayeen.codility;
+package com.kawnayeen.codility._5_prefix_sum;
 
 import org.junit.Assert;
 import org.junit.Test;

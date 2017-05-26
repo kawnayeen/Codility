@@ -1,4 +1,4 @@
-package com.kawnayeen.codility;
+package com.kawnayeen.codility._5_prefix_sum;
 
 /**
  * kawnayeen
@@ -7,7 +7,7 @@ package com.kawnayeen.codility;
 public class PassingCar {
     public int solution(int[] A) {
         int numberOfZero = 0;
-        int numberOfPassingCar = 0;
+        long numberOfPassingCar = 0;
         for (int i = 0; i < A.length; i++) {
             if (A[i] == 0)
                 numberOfZero++;
@@ -16,6 +16,6 @@ public class PassingCar {
         }
         if (numberOfPassingCar > 1000000000)
             return -1;
-        return numberOfPassingCar;
+        return (int) numberOfPassingCar;
     }
 }
